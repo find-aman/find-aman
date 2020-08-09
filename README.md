@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 -->
 
 ## Find me 🌎: 
-- Professional updates on <a href="https://www.linkedin.com/in/amang9578/">LinkedIn</a><img src="https://img.icons8.com/color/20/000000/linkedin.png"/>
+- Professional updates on <a href="https://www.linkedin.com/in/amang9578/">LinkedIn<img src="https://img.icons8.com/color/30/000000/linkedin.png"/></a>
