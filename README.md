@@ -1,9 +1,10 @@
-### Hi there It's me Aman 👋
+### Hi there I am Aman 👋
 
 [![HitCount](http://hits.dwyl.com/find-aman/find-aman.svg)](http://hits.dwyl.com/find-aman/find-aman)
 
 <!--
 **find-aman/find-aman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -16,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Find me 🌎: 
+- Sharing updates on <a href="https://www.linkedin.com/in/amang9578/">LinkedIn</a> 💼
