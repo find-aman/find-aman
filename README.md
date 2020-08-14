@@ -1,6 +1,6 @@
 ### Hi there I am Aman 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffind-aman%2Ffind-aman)](https://hits.seeyoufarm.com)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Ffind-aman%2Ffind-aman)
 
 <img src="https://raw.githubusercontent.com/find-aman/find-aman/master/imageedit_21_7421317727.png" alt="my-avatar">
 
