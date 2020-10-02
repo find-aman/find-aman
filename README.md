@@ -13,7 +13,7 @@
 <img src="https://img.icons8.com/color/60/000000/html-5.png?press=off">
 <img src="https://img.icons8.com/color/60/000000/css3.png?press=off">
 <img src="https://img.icons8.com/color/60/000000/git.png?press=off">
-<img src="https://img.icons8.com/ios-filled/60/000000/data-configuration.png?press=off">
+<img src="https://img.icons8.com/ios-filled/50/000000/data-configuration.png?press=off">
 
 </div></center>
 
