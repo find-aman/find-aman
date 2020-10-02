@@ -8,12 +8,13 @@
 <center><div>
 <img src="https://img.icons8.com/color/60/000000/python.png?press=off">
 <img src="https://img.icons8.com/color/70/000000/django.png?press=off">
+  <img src="https://img.icons8.com/ultraviolet/60/000000/api-settings.png?press=off">
 <!--<img src="https://img.icons8.com/color/60/000000/javascript.png?press=off">-->
 <!--<img src="https://img.icons8.com/officel/60/000000/react.png?press=off">-->
-<img src="https://img.icons8.com/color/60/000000/html-5.png?press=off">
-<img src="https://img.icons8.com/color/60/000000/css3.png?press=off">
 <img src="https://img.icons8.com/color/60/000000/git.png?press=off">
 <img src="https://img.icons8.com/ios-filled/50/000000/data-configuration.png?press=off">
+<img src="https://img.icons8.com/color/60/000000/html-5.png?press=off">
+<img src="https://img.icons8.com/color/60/000000/css3.png?press=off">
 
 </div></center>
 
